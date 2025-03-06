@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+}
+.form{
+    display: flex;
+      justify-content: center;
+      /* align-items: center;  */
+      /* height: 100vh;  */
+      text-align: center;
+      font-size: 1.2rem;
+}
+form{
+    width: 50em;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
+/* .nav-link{
+    color: aqua;
+} */
